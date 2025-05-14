@@ -63,7 +63,7 @@ export default class App extends React.Component {
               />
               <View style={{ marginLeft: 12 }}>
                 <Text style={{ color: '#fff', fontSize: 18 }}>Bem vindo!</Text>
-                <Text style={{ color: '#fff', fontSize: 16, fontWeight: 'bold' }}>Marilet</Text>
+                <Text style={{ color: '#fff', fontSize: 16, fontWeight: 'bold' }}>CRISRYAN</Text>
               </View>
             </View>
             <Ionicons name="notifications" size={28} color="#fff" />
